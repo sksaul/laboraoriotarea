@@ -1,0 +1,14 @@
+C:\Users\Saul\Desktop\TareaC#\programa9\bin\Debug\net8.0\programa9.exe
+C:\Users\Saul\Desktop\TareaC#\programa9\bin\Debug\net8.0\programa9.deps.json
+C:\Users\Saul\Desktop\TareaC#\programa9\bin\Debug\net8.0\programa9.runtimeconfig.json
+C:\Users\Saul\Desktop\TareaC#\programa9\bin\Debug\net8.0\programa9.dll
+C:\Users\Saul\Desktop\TareaC#\programa9\bin\Debug\net8.0\programa9.pdb
+C:\Users\Saul\Desktop\TareaC#\programa9\obj\Debug\net8.0\programa9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saul\Desktop\TareaC#\programa9\obj\Debug\net8.0\programa9.AssemblyInfoInputs.cache
+C:\Users\Saul\Desktop\TareaC#\programa9\obj\Debug\net8.0\programa9.AssemblyInfo.cs
+C:\Users\Saul\Desktop\TareaC#\programa9\obj\Debug\net8.0\programa9.csproj.CoreCompileInputs.cache
+C:\Users\Saul\Desktop\TareaC#\programa9\obj\Debug\net8.0\programa9.dll
+C:\Users\Saul\Desktop\TareaC#\programa9\obj\Debug\net8.0\refint\programa9.dll
+C:\Users\Saul\Desktop\TareaC#\programa9\obj\Debug\net8.0\programa9.pdb
+C:\Users\Saul\Desktop\TareaC#\programa9\obj\Debug\net8.0\programa9.genruntimeconfig.cache
+C:\Users\Saul\Desktop\TareaC#\programa9\obj\Debug\net8.0\ref\programa9.dll

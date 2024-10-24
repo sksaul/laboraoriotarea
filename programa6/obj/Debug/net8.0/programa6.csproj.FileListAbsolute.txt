@@ -1,0 +1,14 @@
+C:\Users\Saul\Desktop\TareaC#\programa6\bin\Debug\net8.0\programa6.exe
+C:\Users\Saul\Desktop\TareaC#\programa6\bin\Debug\net8.0\programa6.deps.json
+C:\Users\Saul\Desktop\TareaC#\programa6\bin\Debug\net8.0\programa6.runtimeconfig.json
+C:\Users\Saul\Desktop\TareaC#\programa6\bin\Debug\net8.0\programa6.dll
+C:\Users\Saul\Desktop\TareaC#\programa6\bin\Debug\net8.0\programa6.pdb
+C:\Users\Saul\Desktop\TareaC#\programa6\obj\Debug\net8.0\programa6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saul\Desktop\TareaC#\programa6\obj\Debug\net8.0\programa6.AssemblyInfoInputs.cache
+C:\Users\Saul\Desktop\TareaC#\programa6\obj\Debug\net8.0\programa6.AssemblyInfo.cs
+C:\Users\Saul\Desktop\TareaC#\programa6\obj\Debug\net8.0\programa6.csproj.CoreCompileInputs.cache
+C:\Users\Saul\Desktop\TareaC#\programa6\obj\Debug\net8.0\programa6.dll
+C:\Users\Saul\Desktop\TareaC#\programa6\obj\Debug\net8.0\refint\programa6.dll
+C:\Users\Saul\Desktop\TareaC#\programa6\obj\Debug\net8.0\programa6.pdb
+C:\Users\Saul\Desktop\TareaC#\programa6\obj\Debug\net8.0\programa6.genruntimeconfig.cache
+C:\Users\Saul\Desktop\TareaC#\programa6\obj\Debug\net8.0\ref\programa6.dll

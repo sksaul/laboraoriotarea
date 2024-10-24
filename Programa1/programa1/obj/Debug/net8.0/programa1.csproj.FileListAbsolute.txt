@@ -1,0 +1,14 @@
+C:\Users\Saul\Desktop\TareaC#\Programa1\programa1\bin\Debug\net8.0\programa1.exe
+C:\Users\Saul\Desktop\TareaC#\Programa1\programa1\bin\Debug\net8.0\programa1.deps.json
+C:\Users\Saul\Desktop\TareaC#\Programa1\programa1\bin\Debug\net8.0\programa1.runtimeconfig.json
+C:\Users\Saul\Desktop\TareaC#\Programa1\programa1\bin\Debug\net8.0\programa1.dll
+C:\Users\Saul\Desktop\TareaC#\Programa1\programa1\bin\Debug\net8.0\programa1.pdb
+C:\Users\Saul\Desktop\TareaC#\Programa1\programa1\obj\Debug\net8.0\programa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saul\Desktop\TareaC#\Programa1\programa1\obj\Debug\net8.0\programa1.AssemblyInfoInputs.cache
+C:\Users\Saul\Desktop\TareaC#\Programa1\programa1\obj\Debug\net8.0\programa1.AssemblyInfo.cs
+C:\Users\Saul\Desktop\TareaC#\Programa1\programa1\obj\Debug\net8.0\programa1.csproj.CoreCompileInputs.cache
+C:\Users\Saul\Desktop\TareaC#\Programa1\programa1\obj\Debug\net8.0\programa1.dll
+C:\Users\Saul\Desktop\TareaC#\Programa1\programa1\obj\Debug\net8.0\refint\programa1.dll
+C:\Users\Saul\Desktop\TareaC#\Programa1\programa1\obj\Debug\net8.0\programa1.pdb
+C:\Users\Saul\Desktop\TareaC#\Programa1\programa1\obj\Debug\net8.0\programa1.genruntimeconfig.cache
+C:\Users\Saul\Desktop\TareaC#\Programa1\programa1\obj\Debug\net8.0\ref\programa1.dll
