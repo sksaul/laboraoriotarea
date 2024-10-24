@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Saul\\Desktop\\TareaC#\\programa3\\programa3\\programa3.csproj": {}
+    "C:\\Users\\Saul\\Desktop\\ttareac#\\programa3\\programa3\\programa3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Saul\\Desktop\\TareaC#\\programa3\\programa3\\programa3.csproj": {
+    "C:\\Users\\Saul\\Desktop\\ttareac#\\programa3\\programa3\\programa3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Saul\\Desktop\\TareaC#\\programa3\\programa3\\programa3.csproj",
+        "projectUniqueName": "C:\\Users\\Saul\\Desktop\\ttareac#\\programa3\\programa3\\programa3.csproj",
         "projectName": "programa3",
-        "projectPath": "C:\\Users\\Saul\\Desktop\\TareaC#\\programa3\\programa3\\programa3.csproj",
+        "projectPath": "C:\\Users\\Saul\\Desktop\\ttareac#\\programa3\\programa3\\programa3.csproj",
         "packagesPath": "C:\\Users\\Saul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Saul\\Desktop\\TareaC#\\programa3\\programa3\\obj\\",
+        "outputPath": "C:\\Users\\Saul\\Desktop\\ttareac#\\programa3\\programa3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saul\\AppData\\Roaming\\NuGet\\NuGet.Config"

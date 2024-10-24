@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Saul\\Desktop\\TareaC#\\programa2\\programa2\\programa2.csproj": {}
+    "C:\\Users\\Saul\\Desktop\\ttareac#\\programa2\\programa2\\programa2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Saul\\Desktop\\TareaC#\\programa2\\programa2\\programa2.csproj": {
+    "C:\\Users\\Saul\\Desktop\\ttareac#\\programa2\\programa2\\programa2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Saul\\Desktop\\TareaC#\\programa2\\programa2\\programa2.csproj",
+        "projectUniqueName": "C:\\Users\\Saul\\Desktop\\ttareac#\\programa2\\programa2\\programa2.csproj",
         "projectName": "programa2",
-        "projectPath": "C:\\Users\\Saul\\Desktop\\TareaC#\\programa2\\programa2\\programa2.csproj",
+        "projectPath": "C:\\Users\\Saul\\Desktop\\ttareac#\\programa2\\programa2\\programa2.csproj",
         "packagesPath": "C:\\Users\\Saul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Saul\\Desktop\\TareaC#\\programa2\\programa2\\obj\\",
+        "outputPath": "C:\\Users\\Saul\\Desktop\\ttareac#\\programa2\\programa2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saul\\AppData\\Roaming\\NuGet\\NuGet.Config"

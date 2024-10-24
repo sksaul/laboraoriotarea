@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saul\\Desktop\\TareaC#\\programa6\\programa6.csproj",
+      "projectUniqueName": "C:\\Users\\Saul\\Desktop\\ttareac#\\programa6\\programa6.csproj",
       "projectName": "programa6",
-      "projectPath": "C:\\Users\\Saul\\Desktop\\TareaC#\\programa6\\programa6.csproj",
+      "projectPath": "C:\\Users\\Saul\\Desktop\\ttareac#\\programa6\\programa6.csproj",
       "packagesPath": "C:\\Users\\Saul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saul\\Desktop\\TareaC#\\programa6\\obj\\",
+      "outputPath": "C:\\Users\\Saul\\Desktop\\ttareac#\\programa6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saul\\AppData\\Roaming\\NuGet\\NuGet.Config"

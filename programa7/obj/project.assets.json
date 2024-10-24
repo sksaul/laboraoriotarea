@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saul\\Desktop\\TareaC#\\programa7\\programa7.csproj",
+      "projectUniqueName": "C:\\Users\\Saul\\Desktop\\ttareac#\\programa7\\programa7.csproj",
       "projectName": "programa7",
-      "projectPath": "C:\\Users\\Saul\\Desktop\\TareaC#\\programa7\\programa7.csproj",
+      "projectPath": "C:\\Users\\Saul\\Desktop\\ttareac#\\programa7\\programa7.csproj",
       "packagesPath": "C:\\Users\\Saul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saul\\Desktop\\TareaC#\\programa7\\obj\\",
+      "outputPath": "C:\\Users\\Saul\\Desktop\\ttareac#\\programa7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saul\\AppData\\Roaming\\NuGet\\NuGet.Config"

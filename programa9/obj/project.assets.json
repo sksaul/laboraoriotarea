@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saul\\Desktop\\TareaC#\\programa9\\programa9.csproj",
+      "projectUniqueName": "C:\\Users\\Saul\\Desktop\\ttareac#\\programa9\\programa9.csproj",
       "projectName": "programa9",
-      "projectPath": "C:\\Users\\Saul\\Desktop\\TareaC#\\programa9\\programa9.csproj",
+      "projectPath": "C:\\Users\\Saul\\Desktop\\ttareac#\\programa9\\programa9.csproj",
       "packagesPath": "C:\\Users\\Saul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saul\\Desktop\\TareaC#\\programa9\\obj\\",
+      "outputPath": "C:\\Users\\Saul\\Desktop\\ttareac#\\programa9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saul\\AppData\\Roaming\\NuGet\\NuGet.Config"
